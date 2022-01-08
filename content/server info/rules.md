@@ -62,7 +62,7 @@ These rules apply to our Discord, servers and all other services. By using our s
 
 ### No Griefing
   * Griefing means to negatively change a building or area which you do not own or have permission to use. This includes, but is not limited to the following:
-    * Breaking blocks from other's builds, stealing items or resources from others. This also applies to buildings and areas where the area is player owner, but it is not evident who exactly owned it.
+    * Breaking blocks from other's builds, stealing items or resources from others. This also applies to buildings and areas where the area is player owned, but it is not evident who exactly owned it.
 
 ### No raiding or Stealing, Even if the Base is Unclaimed
   * Includes all resource types.
